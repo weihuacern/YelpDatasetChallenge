@@ -10,11 +10,11 @@
   - photos.json: This file is formatted as a JSON list of objects. <br />
 
 ## Notebooks Description
-- Several jupyter notebooks are stored in the [NoteBooks directory](https://github.com/weihuacern/YelpDatasetChallenge/tree/master/NoteBooks) for different model development aims for this project. <br />
+- Several jupyter notebooks are stored in the [NoteBooks](https://github.com/weihuacern/YelpDatasetChallenge/tree/master/NoteBooks) directory for different model development aims for this project. <br />
   - [BasicFeatureExplore.ipynb](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/NoteBooks/BasicFeatureExplore.ipynb): Basic feature investigation for all datasets. <br />
   - [TextFeatureExplore.ipynb](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/NoteBooks/TextFeatureExplore.ipynb): Feature engineer for text features. <br />
-  - [RecommendationSysTest.ipynb](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/NoteBooks/RecommendationSysTest.ipynb): Build recommendation system with [surprise package](http://surpriselib.com/). <br />
+  - [RecommendationSysTest.ipynb](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/NoteBooks/RecommendationSysTest.ipynb): Build recommendation system with [Surprise package](http://surpriselib.com/). <br />
 
 ## Project Documentation
-- All the documents related to this project, like weekly summary slides and latex documentation, are stored in the [Documentation directory](https://github.com/weihuacern/YelpDatasetChallenge/tree/master/Documentation). <br />
+- All the documents related to this project, like weekly summary slides and latex documentation, are stored in the [Documentation](https://github.com/weihuacern/YelpDatasetChallenge/tree/master/Documentation) directory. <br />
   - [YelpDataChallenge_20180204.pdf](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/Documentation/YelpDataChallenge_20180204.pdf): Yelp dataset challenge kick off slide for data incubator semi-final list. <br />
