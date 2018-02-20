@@ -19,3 +19,4 @@
 ## Project Documentation
 - All the documents related to this project, like weekly summary slides and latex documentation, are stored in the [Documentation](https://github.com/weihuacern/YelpDatasetChallenge/tree/master/Documentation) directory. <br />
   - [YelpDataChallenge_20180204.pdf](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/Documentation/YelpDataChallenge_20180204.pdf): Yelp dataset challenge kick off slide for data incubator semi-final list. <br />
+  - [YelpDataChallenge_DIInterview_20180220.pdf](https://github.com/weihuacern/YelpDatasetChallenge/blob/master/Documentation/YelpDataChallenge_DIInterview_20180220.pdf): Yelp dataset challenge summary for data incubator final list. <br />
